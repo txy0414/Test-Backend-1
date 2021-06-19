@@ -6,6 +6,7 @@ In this test, you will build a server for getting user data **from university we
 You are allowed to find help online by searching related material. 
 
 **Noted that you should only submit a zipped file containing the final version of the scripts.**
+**Noted that you do not have to worry about the login issues.**
 
 ## Instructions :notebook: 
 
@@ -37,7 +38,8 @@ https://itsc.ust.hk/cgi-bin/comdir/profile.pl?uid=${itsc}
 ```
 **Note:** You will have to be within HKUST network to perform the above tasks. Try connect to HKUST VPN through Pulse Secure.
 
-- You can use your own itsc to check what fields are available.
+- You can use your own itsc in the url to check what fields are available.
+- You can use applications like Postman to test your implemented endpoints.
 
 ## Restrictions :no_entry: 
 - You are not allowed to share/discuss any part of this test with anyone :angry:
