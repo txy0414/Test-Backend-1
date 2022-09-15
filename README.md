@@ -35,7 +35,11 @@ Build a docker image containing the server code.
 ## Resources :package:
 - The directory website:
 ```
+API: You will call this site to retrieve html
 https://comdir.api.usthing.xyz/user/{itsc}
+
+UI: You can view the graphical interface here
+https://comdir.ust.hk/user/detail/{itsc}
 ```
 - You can use your own itsc in this url to check what fields are available.
 - Please note that the data are randomly generated and changes everytime
