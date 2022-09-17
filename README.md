@@ -41,6 +41,7 @@ https://comdir.api.usthing.xyz/user/{itsc}
 UST real site: You can view the graphical interface here
 https://comdir.ust.hk/user/detail/{itsc}
 ```
+- {itsc} means type your itsc here
 - You can use your own itsc in this url to check what fields are available.
 - Please note that the data are randomly generated and changes everytime
 
